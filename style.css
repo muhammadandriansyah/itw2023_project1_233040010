@@ -75,7 +75,7 @@ section {
 }
 
 .navbar a {
-    font-size: 1.75rem;
+    /* font-size: 1.75rem; */
     color: var(--text-color);
     margin-left: 4rem;
     transition: .3s;
@@ -524,7 +524,7 @@ img {
     }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 480px) {
     html {
         font-size: 50%;
     }
